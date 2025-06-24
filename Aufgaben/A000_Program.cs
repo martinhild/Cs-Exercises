@@ -6,7 +6,7 @@ internal class Program
     static void Main(string[]args)
     {
         // Aufgabe:
-        A005_UmrechnungCelciusInFahrenheit.Run();
+        A009_KleinerTaschenrechner.Run();
 
     }
 }
