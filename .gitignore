@@ -1,3 +1,6 @@
+# gitignore
+.gitignore
+
 # Build
 bin/
 obj/
