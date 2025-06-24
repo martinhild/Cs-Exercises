@@ -29,11 +29,9 @@ internal class A009_KleinerTaschenrechner
                 if (n2 == 0)
                 {
                     Console.WriteLine("Can't divide by 0.");
+                    return;                
                 }
-                else
-                {
-                    result = n1 / n2;
-                }                    
+                result = n1 / n2;
                 break;
         }
         Console.WriteLine($"{n1} {arithmeticOperator} {n2} = {result}");
