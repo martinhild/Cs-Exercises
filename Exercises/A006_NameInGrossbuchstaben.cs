@@ -3,7 +3,7 @@
  * Lese einen Namen ein und gib ihn vollständig in Großbuchstaben zurück.
  */
 
-namespace FQ_Programmieraufgaben.Aufgaben;
+namespace FQ_Programmieraufgaben.Exercises;
 using System;
 
 internal static class A006_NameInGrossbuchstaben

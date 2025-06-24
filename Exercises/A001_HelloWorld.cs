@@ -3,8 +3,7 @@
  * Schreibe ein Programm, das den Text „Hello World“ auf der Konsole ausgibt.
  */
 
-
-namespace FQ_Programmieraufgaben.Aufgaben
+namespace FQ_Programmieraufgaben.Exercises
 {
     internal static class A001_HelloWorld
     {

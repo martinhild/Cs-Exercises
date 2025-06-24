@@ -1,5 +1,4 @@
-﻿using FQ_Programmieraufgaben.Aufgaben;
-
+﻿using FQ_Programmieraufgaben.Exercises;
 
 internal class Program
 {

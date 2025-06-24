@@ -3,7 +3,7 @@
  * Lese zwei Zahlen ein, addiere sie und gib das Ergebnis aus.
  */
 
-namespace FQ_Programmieraufgaben.Aufgaben;
+namespace FQ_Programmieraufgaben.Exercises;
 
 internal static class A003_EinfacheRechenaufgabe
 {

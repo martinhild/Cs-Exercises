@@ -1,5 +1,5 @@
 using System;
-namespace FQ_Programmieraufgaben.Aufgaben;
+namespace FQ_Programmieraufgaben.Exercises;
 
 internal class A007_SummeVon1BisN
 {
