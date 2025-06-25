@@ -1,11 +1,11 @@
-﻿using FQ_Programmieraufgaben.Exercises;
+﻿using OOP_Animals;
 
 internal class Program
 {
     static void Main(string[]args)
     {
         // Aufgabe:
-        A012_MinMaxDurchschnitt.Run();
+        OOPAnimalsDemo.Run();
 
     }
 }
