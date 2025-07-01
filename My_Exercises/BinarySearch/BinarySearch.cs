@@ -26,7 +26,7 @@ internal class BinarySearch
 
     private static int binarySearch(int number, List<int> list)
     {
-
+        return -1;
     }
 
 }
